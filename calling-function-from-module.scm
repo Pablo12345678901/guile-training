@@ -1,3 +1,5 @@
+#!/usr/local/bin/guile -s
+!#
 
 ;; Importing my module
 (use-modules (my-first-module))
